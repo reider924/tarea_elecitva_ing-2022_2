@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(0, 0, 0);
+ 
+}
+h1{
+    margin: 70px 120px;
+    font-size: medium;
+    color:beige;
+    
+   
+}
+.back{
+    padding: 20px 20px;
+	
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-color: #131313;
+	margin: calc(25% + 20px);
+	margin-top: 70px;
+	padding-top: 28px;
+	margin-bottom: 20px
+}
+.container{
+    background: url(img/di\ maria\ comp.png);
+}

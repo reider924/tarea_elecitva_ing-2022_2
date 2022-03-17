@@ -1,0 +1,1 @@
+var home = document.getElementById("1234");
